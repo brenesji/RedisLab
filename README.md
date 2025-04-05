@@ -18,29 +18,29 @@ Create ‘Replica Of’ Redis Open Source server on Redis Enterprise Software.
 
 # 4.	Install the latest version of Redis Enterprise Software on Server B.
 
-     <img width="453" alt="image" src="https://github.com/user-attachments/assets/07b46516-53c9-48c2-b8e4-8251f00cf77e" />
+<img width="453" alt="image" src="https://github.com/user-attachments/assets/07b46516-53c9-48c2-b8e4-8251f00cf77e" />
 
-     <img width="468" alt="image" src="https://github.com/user-attachments/assets/fe3e8f2e-ab78-4326-a1f3-7e74e777d5e4" />
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/fe3e8f2e-ab78-4326-a1f3-7e74e777d5e4" />
 
 # 5.	Setup Redis Enterprise Software.
 
 
-    <img width="356" alt="image" src="https://github.com/user-attachments/assets/e40d2e5b-47dd-47ed-bcdd-6137c3222a85" />
+<img width="356" alt="image" src="https://github.com/user-attachments/assets/e40d2e5b-47dd-47ed-bcdd-6137c3222a85" />
 
 # 6.	Create a Redis Database on Redis Enterprise Software
 
-   <img width="468" alt="image" src="https://github.com/user-attachments/assets/2ee05739-0e94-49c2-bce3-33321ab60de7" />
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/2ee05739-0e94-49c2-bce3-33321ab60de7" />
 
 # 7.	Send an email (Reply All) with a few details on how it is going so far.
 
-   <img width="468" alt="image" src="https://github.com/user-attachments/assets/c7fc4cb0-c8b1-40b7-97e0-8f9db32070c3" />
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/c7fc4cb0-c8b1-40b7-97e0-8f9db32070c3" />
 
 
 # 8.	Enable Unidirectional Replica Of (Active-Passive) between the two Redis servers:
 
-   <img width="468" alt="image" src="https://github.com/user-attachments/assets/47edb255-ef90-4bf0-97d7-ee1404876e53" />
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/47edb255-ef90-4bf0-97d7-ee1404876e53" />
 
-   <img width="468" alt="image" src="https://github.com/user-attachments/assets/c3baa278-6491-4f2c-a184-fb2513e9c6bd" />
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/c3baa278-6491-4f2c-a184-fb2513e9c6bd" />
 
  
 # 9.	Choose any technology to implement the following, using the most efficient Redis Data Type:
