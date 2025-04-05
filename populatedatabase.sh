@@ -1,0 +1,1 @@
+cat names.txt | while read word; do redis-cli LPUSH nombres "$word"; done

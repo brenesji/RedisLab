@@ -1,0 +1,1 @@
+redis-cli -p 12000 LRANGE names 0 100
