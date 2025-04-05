@@ -71,7 +71,9 @@ From Server B (10.10.0.185)
    Done.
 
 • Username: brenes.jairo@hotmail.com
+
 • password: Redis6379
+
 • server: https://18.207.176.232:8443/#/sign-in
 
 
