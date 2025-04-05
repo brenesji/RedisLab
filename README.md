@@ -49,12 +49,13 @@ Create ‘Replica Of’ Redis Open Source server on Redis Enterprise Software.
  
 cat names.txt | while read word; do redis-cli LPUSH names "$word"; done
 
+From Server A (10.10.0.19)
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/7521923e-3fea-4498-b317-9ae7f70c4be5" />
 
 
 •	Read and print the values in reverse insertion order from the Redis Enterprise Software.
  
-
+From Server B (10.10.0.185)
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/d8103a4c-acdb-44a8-b0dc-c7f5e7bc6862" />
 
 •	Explain why it is the most efficient Redis Data Type for this task
@@ -67,8 +68,8 @@ cat names.txt | while read word; do redis-cli LPUSH names "$word"; done
    
    Done.
 
-•	Username username: brenes.jairo@hotmail.com
-•	password: Redis6379
-•	server: https://18.207.176.232:8443/#/sign-in
+• Username: brenes.jairo@hotmail.com
+• password: Redis6379
+• server: https://18.207.176.232:8443/#/sign-in
 
 
